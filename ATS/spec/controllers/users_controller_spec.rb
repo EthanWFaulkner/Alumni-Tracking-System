@@ -6,4 +6,7 @@ RSpec.describe UsersController, type: :controller do
         it ''
     end
     
+    describe '#update' do
+        it ''
+    end
 end
